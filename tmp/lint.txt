@@ -1,0 +1,27 @@
+﻿
+Ren'Py 6.99.8.959 lint report, generated at: Tue Jun 16 22:27:30 2020
+
+game/script.rpy:457 The image tag 'v' is not the prefix of a declared image, nor was it used in a show statement before this hide statement.
+
+game/script.rpy:668 Could not evaluate 'o' in the who part of a say statement.
+Perhaps you forgot to define a character?
+
+game/script.rpy:671 Could not evaluate 'o' in the who part of a say statement.
+
+game/script.rpy:673 Could not evaluate 'o' in the who part of a say statement.
+
+game/script.rpy:677 Could not evaluate 'o' in the who part of a say statement.
+
+
+Statistics:
+
+The game contains 510 dialogue blocks, containing 5,614 words and 31,209
+characters, for an average of 11.0 words and 61 characters per block.
+
+The game contains 10 menus, 17 images, and 14 screens.
+
+
+Remember to set config.developer to False before releasing.
+
+Lint is not a substitute for thorough testing. Remember to update Ren'Py
+before releasing. New releases fix bugs and improve compatibility.
